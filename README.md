@@ -17,4 +17,4 @@ Lionel-G-yuan · 企业软件授权与智能文档审核
 
 **[Project 02 · Centralized software licensing](02-central-licensing.md)** translates contracts into per-service access decisions for individual customer installations. The case study walks through a renewal affecting one customer and one service, with local regression coverage for isolation and repeated requests.
 
-**[Project 01 · AI-assisted calibration certificate auditing](01-certificate-audit.md)** combines document extraction with deterministic checks. The case study follows one synthetic measurement through evidence validation, then examines a parsing fix on 20 synthetic certificates and a four-task replay of signature OCR under load.
+**[Project 01 · AI Certificate Review System](projects/ai-certificate-review-system/README.md)** combines PDF parsing, OCR and evidence-grounded field extraction with deterministic checks and human review. The case study covers a parsing fix verified on 20 synthetic certificates, a four-task signature OCR benchmark, and my contribution to enterprise IT security assessment and remediation planning.
